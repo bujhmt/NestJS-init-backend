@@ -1,3 +1,16 @@
+# Custom
+package-lock.json
+current-docker-container.txt
+#.prettierrc
+#nest-cli.json
+#nodemon.json
+#tsconfig.build.json
+#tsconfig.json
+
+# Important [Required to uncomment on a real project]
+#.env
+#.ormconfig.json
+
 # compiled output
 /dist
 /node_modules
@@ -32,5 +45,3 @@ lerna-debug.log*
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
-
-# Custom

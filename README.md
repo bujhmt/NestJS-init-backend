@@ -34,4 +34,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## Useful links
-[The guide from where I got almost everything](https://medium.com/@gausmann.simon/nestjs-typeorm-and-postgresql-full-example-development-and-project-setup-working-with-database-c1a2b1b11b8f)
+1) [The guide from where I got almost everything](https://medium.com/@gausmann.simon/nestjs-typeorm-and-postgresql-full-example-development-and-project-setup-working-with-database-c1a2b1b11b8f)
+2) [Not the best code, but it's good](https://github.com/lujakob/nestjs-realworld-example-app)
+

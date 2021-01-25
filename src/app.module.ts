@@ -6,10 +6,7 @@ import { TypeOrmModule } from '@nestjs/typeorm'
 import { configService } from './config/config.service'
 
 @Module({
-    imports: [
-        TypeOrmModule.forRoot(configService.getTypeOrmConfig()),
-        AuthModule,
-    ],
+    imports: [TypeOrmModule.forRoot(configService.getTypeOrmConfig()), AuthModule],
     controllers: [AppController],
     providers: [AppService],
 })
